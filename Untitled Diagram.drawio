@@ -10,7 +10,7 @@
         <mxCell id="tFquaYO4ZpzdXAOgKB9p-5" value="&lt;b&gt;&amp;lt;&amp;lt;PK&amp;gt;&amp;gt;&lt;/b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tFquaYO4ZpzdXAOgKB9p-1" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tFquaYO4ZpzdXAOgKB9p-11" value="Rodné číslo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tFquaYO4ZpzdXAOgKB9p-1" vertex="1">
+        <mxCell id="tFquaYO4ZpzdXAOgKB9p-11" value="Rodné_číslo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tFquaYO4ZpzdXAOgKB9p-1" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tFquaYO4ZpzdXAOgKB9p-2" value="&lt;div&gt;Jméno&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tFquaYO4ZpzdXAOgKB9p-1" vertex="1">
@@ -19,13 +19,13 @@
         <mxCell id="tFquaYO4ZpzdXAOgKB9p-3" value="Příjmení" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tFquaYO4ZpzdXAOgKB9p-1" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tFquaYO4ZpzdXAOgKB9p-4" value="Datum narození" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tFquaYO4ZpzdXAOgKB9p-1" vertex="1">
+        <mxCell id="tFquaYO4ZpzdXAOgKB9p-4" value="Datum_narození" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tFquaYO4ZpzdXAOgKB9p-1" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tFquaYO4ZpzdXAOgKB9p-7" value="Účet" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="120" width="140" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="tFquaYO4ZpzdXAOgKB9p-8" value="&lt;b&gt;&amp;lt;&amp;lt;PK&amp;gt;&amp;gt;&lt;/b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Číslo Účtu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tFquaYO4ZpzdXAOgKB9p-7" vertex="1">
+        <mxCell id="tFquaYO4ZpzdXAOgKB9p-8" value="&lt;b&gt;&amp;lt;&amp;lt;PK&amp;gt;&amp;gt;&lt;/b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Číslo_Účtu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tFquaYO4ZpzdXAOgKB9p-7" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfEjfYJjB-LuL-JjxS13-36" value="Datum_Zřízení" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tFquaYO4ZpzdXAOgKB9p-7">
@@ -145,7 +145,7 @@
         <mxCell id="TfEjfYJjB-LuL-JjxS13-49" value="&lt;b&gt;&amp;lt;&amp;lt;PK&amp;gt;&amp;gt; &lt;/b&gt;ID_Klienta" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TfEjfYJjB-LuL-JjxS13-48">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TfEjfYJjB-LuL-JjxS13-50" value="&lt;b&gt;&amp;lt;&amp;lt;PK&amp;gt;&amp;gt; &lt;/b&gt;ID_Účtu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TfEjfYJjB-LuL-JjxS13-48">
+        <mxCell id="TfEjfYJjB-LuL-JjxS13-50" value="&lt;b&gt;&amp;lt;&amp;lt;PK&amp;gt;&amp;gt; &lt;/b&gt;Číslo_Účtu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TfEjfYJjB-LuL-JjxS13-48">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfEjfYJjB-LuL-JjxS13-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.994;exitY=0.166;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="tFquaYO4ZpzdXAOgKB9p-1" target="TfEjfYJjB-LuL-JjxS13-49">
